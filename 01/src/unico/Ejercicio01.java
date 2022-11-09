@@ -6,6 +6,11 @@ public class Ejercicio01 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
+
+/*Diseñar un programa que muestre, para cada número introducido por teclado,
+ * si es par, si es positivo, y su cuadrado. El proceso terminará cuando
+ * el número introducido por teclado sea 0.
+ */
 		
 		int num;
 		String mensaje;
