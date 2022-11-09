@@ -24,7 +24,5 @@ public class Ejercicio01 {
 			System.out.println("Introduzca un número [0 - salir]: ");
 			num = Integer.parseInt(teclado.nextLine()); 
 		}
-		
-
 	}
 }
